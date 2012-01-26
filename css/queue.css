@@ -1,0 +1,15 @@
+table 
+{ 
+	float: right; 
+	width: 100%;
+}
+
+ul, li { margin: 0px; }
+
+.gadget
+{
+	margin: 10px;
+	padding: 5px;
+}
+
+div.gadget li { margin: 5px; }
